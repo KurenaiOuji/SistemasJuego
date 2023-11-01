@@ -1,0 +1,2102 @@
+fileFormatVersion: 2
+guid: a1e54b92be6acbf409fe101e27fa3d95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alma_PHC_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 816
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73777625d4089c34793ab765990c4274
+      internalID: -982920676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 816
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28700c2461f247d448b33a61647e2fe8
+      internalID: -184859138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 816
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28cee065839ce64a82f887f7a444791
+      internalID: -579023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 816
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f7ef4ad4604b49b9941d69a1cdf8e
+      internalID: 1294721945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 816
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664302e04140ec4c8f731fe2d01c63b
+      internalID: -1866425123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 768
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c878121538a2e42b03fc701cbe7a15
+      internalID: 456351968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 768
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ea55cfe05a2740bbea6f437552c95
+      internalID: -1481340494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 768
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e1844d8f576e44a2bd2922d1fe301
+      internalID: -2035677955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 768
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf37ab36fa3c1145835521b254d29e5
+      internalID: -711902794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 768
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c550e1c1ebb342bc4b515a292dcd6
+      internalID: -1159373643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1094fb8f6f8dd74489cbe64fe471f35
+      internalID: 941201320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 720
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad030907a4c362f45aafb0addf1c3db3
+      internalID: 717036356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 720
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c98c0fb42cac419de2ad1d4d0daa2
+      internalID: -375011154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 720
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685062b2d4802064c88791f666c1d76a
+      internalID: 1237734473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 720
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8c89c13951e34180e89b56bfa47a8
+      internalID: 164407471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 672
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74885f3e4eba0f42b3e83edf0b45395
+      internalID: 573821472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 672
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c08c99e89381499a841eaaae2a98c
+      internalID: -1570834570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 672
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b69493de8fc544ba737383dd51f04
+      internalID: -1791020705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 672
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b6fae2095b6e14b83b0e7d7ed31b3a
+      internalID: 1451134536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 672
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8db1ff61822e4ea2c1eb899cc0417
+      internalID: -370514564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 624
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f797c5a9cc26d4d8421c7826342838
+      internalID: 907444224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 624
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35caa62f4a377449129a13bed5d824
+      internalID: -554726195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 624
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d7ac095aea3c458641d79c7cc39d9
+      internalID: 1367768290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 624
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51735c141b210543bf2a2cdcecd6551
+      internalID: -2089139612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 624
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17fbd2765895140a322ada345a2b1f
+      internalID: -1802332237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 564
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04471576f94c3c04fa4f2a4fa50de766
+      internalID: 1413903382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 572
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac5125e8946e14499da9cf9954fe2a
+      internalID: 978248016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 572
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89769751d6d4d34783a5311ae25c95d
+      internalID: 100737145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 572
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3011c9743d9f514bb2bda899eedc87f
+      internalID: -594205842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 576
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb07dfe21b7ae4418e3924b71b9c9ed
+      internalID: -2005102183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 522
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef213aa0a6ed14bb663120fccd4443
+      internalID: 1422462139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 522
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624da91922a80948b2a3a59df2ba101
+      internalID: -1927251175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 528
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1f810840ea1049a2143ab58eef7cd
+      internalID: -1985145385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 528
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4ce4599f1c69147b8e45acfb8fb949
+      internalID: -527688806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f78fb21209b5240a38f2d6a5794ad8
+      internalID: -956413076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 480
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f6b50fa5f6bf48ae5937c3fd90ae1
+      internalID: 1614188671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 480
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64407a9d59e7d384d93c84192610ed44
+      internalID: 1285104440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 480
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9443b71176e4ac46892173e4de8059d
+      internalID: -813243324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 480
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d995364cb701cd418958389d4d2ec30
+      internalID: -858436130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 480
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02f6cb040f44545aa39957cd6a12b8
+      internalID: 19446901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d08b9a76f68b4baf7706fdaeed011
+      internalID: -1185980065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 432
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df65e474b8d26479e60d3a81dfa39a
+      internalID: 1719147250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 432
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e141835fa73e40af8d53e2eb4eb85
+      internalID: -1626084697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d2ba70a4f6d54ba163ec9d8086867
+      internalID: 1142548938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 432
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135774900b5be804d9f8995b178257de
+      internalID: 1824499989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 447
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96de09ede246934f832d0e485de2cce
+      internalID: 367946071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 444
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb2c56471d37cc44b67ff858efb130b
+      internalID: -744507824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 450
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdc53293247e95448e09a425c325c40
+      internalID: -1222927091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 384
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118934cb68a198c4180490a8e63f7458
+      internalID: -1964417304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 384
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f98c3be541724b856c6bb4445faab
+      internalID: -1204968703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402b58a9a5cfd34683ec7466ad3bf64
+      internalID: 729894911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 384
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ecb31700f37c4d942bd1b4771756d
+      internalID: 1187290687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 384
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd6d1550ea2614ea8f256cb9cedaab
+      internalID: 1571155392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_57
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 336
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9e7e4a80cc1948b9489331fe61ac5
+      internalID: -2095866259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 336
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a50eb3074f744448b3338a2fc4430f
+      internalID: -292756611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 336
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1529e1c9a09d2a4f8133c0791247809
+      internalID: 969821029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 336
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b6ede423c7044fb1460050bc5c97f
+      internalID: 1592758509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f27b4084828e2489ed036906534b2f
+      internalID: -231392705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 288
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cc1aa4e3557f48beced85f286fc11
+      internalID: 1185509102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47adaf4bba5a964da0f72a975d45207
+      internalID: 922833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 288
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80766203416d4ff4397dd5909c1ef464
+      internalID: -990086630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 288
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93171accfd6ed734b85e1fe2215c75c8
+      internalID: 1897343287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 288
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b62da454868bc43bd0fc0e23d13779
+      internalID: -1431700167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286687c6bb88b24b9492d1974e4550e
+      internalID: -1687727788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 240
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4b78774e456d44a14047986daaab0
+      internalID: -984426759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa387e4709d4d3489583c2053a806d4
+      internalID: -118742365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 240
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f600a9f6c10f46992a31f3171ab96
+      internalID: -1287352257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818ce03a0572994cb0545017ceefc37
+      internalID: -1021821060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3327fd10876da41b784f65b74aac3a
+      internalID: 960882278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f46bf4ea87e3e4fa999c29c49c76b7
+      internalID: 991914527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 192
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e3f05b096a4e34eab629f179ec5a73
+      internalID: -998766296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12fa5217e314ef4cbd58d204bfec100
+      internalID: 1112003497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_76
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 192
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d1d5ae86d6d3409de32f748461da6
+      internalID: -1554581134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 144
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31acf5b98fafa4fbaa74c818697cfb
+      internalID: 394392845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 144
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79dcd90f5ceb9343aa0a1a37ffed545
+      internalID: 1299435315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 144
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b360bb1617cd54b814e00ca9d6145b
+      internalID: -1434285930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_80
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 144
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8200f4a43dd14a9e9d3a05246eaa1
+      internalID: 1355395463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 79
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c58a93b53a4be448b6b337281fa0a9
+      internalID: -165469841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81a77030cf1294a91c9fc28d607acf
+      internalID: -711786355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 84
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d956c1af989e45b0b646c13e7e8f7
+      internalID: 1130079989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a0cee08ca16c49821169da1617e57
+      internalID: 1676336139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e27ed7a2a38c46b10c25fd07c1ab7
+      internalID: -1183895254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8cc0640896b3459c5533c3cc1e429
+      internalID: -913473104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65095f67a1457e74d8bf8b55ec036def
+      internalID: -2099438613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773a5580fdbae6409d289cbca359536
+      internalID: 536539502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_89
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c8b821b0c89645a8d743ddb4c84fe
+      internalID: -758542788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_90
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 75
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c626b0b08c8674e9041f9bce9d0be3
+      internalID: -1815492446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23797af6df3680241b68fc98e037d32d
+      internalID: -1873033732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alma_PHC_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51091ad6f90fd104184acf57fa21554b
+      internalID: 415908068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alma_PHC_0: -982920676
+      Alma_PHC_1: -184859138
+      Alma_PHC_10: 941201320
+      Alma_PHC_11: 717036356
+      Alma_PHC_12: -375011154
+      Alma_PHC_13: 1237734473
+      Alma_PHC_14: 164407471
+      Alma_PHC_15: 573821472
+      Alma_PHC_16: -1570834570
+      Alma_PHC_17: -1791020705
+      Alma_PHC_18: 1451134536
+      Alma_PHC_19: -370514564
+      Alma_PHC_2: -579023825
+      Alma_PHC_20: 907444224
+      Alma_PHC_21: -554726195
+      Alma_PHC_22: 1367768290
+      Alma_PHC_23: -2089139612
+      Alma_PHC_24: -1802332237
+      Alma_PHC_25: 1413903382
+      Alma_PHC_26: 978248016
+      Alma_PHC_27: 100737145
+      Alma_PHC_28: -594205842
+      Alma_PHC_29: -2005102183
+      Alma_PHC_3: 1294721945
+      Alma_PHC_30: 1422462139
+      Alma_PHC_31: -1927251175
+      Alma_PHC_32: -1985145385
+      Alma_PHC_33: -527688806
+      Alma_PHC_34: -956413076
+      Alma_PHC_35: 1614188671
+      Alma_PHC_36: 1285104440
+      Alma_PHC_37: -813243324
+      Alma_PHC_38: -858436130
+      Alma_PHC_39: 19446901
+      Alma_PHC_4: -1866425123
+      Alma_PHC_40: -1185980065
+      Alma_PHC_41: -465123046
+      Alma_PHC_42: 1719147250
+      Alma_PHC_43: -1626084697
+      Alma_PHC_44: 1142548938
+      Alma_PHC_45: 1824499989
+      Alma_PHC_46: 367946071
+      Alma_PHC_47: -744507824
+      Alma_PHC_48: -1222927091
+      Alma_PHC_49: 336600396
+      Alma_PHC_5: 456351968
+      Alma_PHC_50: -151408868
+      Alma_PHC_51: 1326733017
+      Alma_PHC_52: -1964417304
+      Alma_PHC_53: -1204968703
+      Alma_PHC_54: 729894911
+      Alma_PHC_55: 1187290687
+      Alma_PHC_56: 1571155392
+      Alma_PHC_57: -2095866259
+      Alma_PHC_58: -292756611
+      Alma_PHC_59: 969821029
+      Alma_PHC_6: -1481340494
+      Alma_PHC_60: 1592758509
+      Alma_PHC_61: -231392705
+      Alma_PHC_62: 1185509102
+      Alma_PHC_63: 922833481
+      Alma_PHC_64: -990086630
+      Alma_PHC_65: 1897343287
+      Alma_PHC_66: -1431700167
+      Alma_PHC_67: -1687727788
+      Alma_PHC_68: -984426759
+      Alma_PHC_69: -118742365
+      Alma_PHC_7: -2035677955
+      Alma_PHC_70: -1287352257
+      Alma_PHC_71: -1021821060
+      Alma_PHC_72: 960882278
+      Alma_PHC_73: 991914527
+      Alma_PHC_74: -998766296
+      Alma_PHC_75: 1112003497
+      Alma_PHC_76: -1554581134
+      Alma_PHC_77: 394392845
+      Alma_PHC_78: 1299435315
+      Alma_PHC_79: -1434285930
+      Alma_PHC_8: -711902794
+      Alma_PHC_80: 1355395463
+      Alma_PHC_81: -165469841
+      Alma_PHC_82: -711786355
+      Alma_PHC_83: 1130079989
+      Alma_PHC_84: 1676336139
+      Alma_PHC_85: -1183895254
+      Alma_PHC_86: -913473104
+      Alma_PHC_87: -2099438613
+      Alma_PHC_88: 536539502
+      Alma_PHC_89: -758542788
+      Alma_PHC_9: -1159373643
+      Alma_PHC_90: -1815492446
+      Alma_PHC_91: -1873033732
+      Alma_PHC_92: 415908068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
